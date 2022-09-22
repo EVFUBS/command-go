@@ -1,4 +1,4 @@
-module github.com/EVFUBS/commandgo
+module github.com/EVFUBS/command-go
 
 go 1.19
 
