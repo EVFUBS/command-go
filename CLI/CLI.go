@@ -1,7 +1,7 @@
 package CLI
 
 import (
-	"github.com/EVFUBS/commandgo/parser"
+	"github.com/EVFUBS/command-go/parser"
 )
 
 type Cli struct {
